@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/hi_sohee_/" target="_blank"><img src="https://img.shields.io/badge/hi_sohee_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/chou1520@yonsei.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+-->
