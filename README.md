@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullallas&count_private=true&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullallas&count_private=true&show_icons=true&theme=vue)
 
 ## 📞 Contact 📞
 <a href="https://www.instagram.com/hi_sohee_/" target="_blank"><img src="https://img.shields.io/badge/hi_sohee_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
