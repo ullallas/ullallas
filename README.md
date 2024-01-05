@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullallas&count_private=true&show_icons=true&theme=vue)
 
 ## 📞 Contact 📞
-<a href="https://velog.io/@ullallas/posts" target="_blank"><img src="https://img.shields.io/badge/ullallas-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@ullallas/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/hi_sohee_/" target="_blank"><img src="https://img.shields.io/badge/hi_sohee_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/chou1520@yonsei.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
