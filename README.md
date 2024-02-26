@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullallas&count_private=true&show_icons=true&theme=vue)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ullallas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ullallas&layout=compact)
 
 ## 📞 Contact 📞
 <a href="https://velog.io/@ullallas/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
